@@ -1,5 +1,5 @@
 title = "Tring Bellringers"
-baseURL = "tringbellringers.org.uk/"
+baseURL = "https://tringbellringers.org.uk/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
