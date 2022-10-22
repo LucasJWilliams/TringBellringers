@@ -1,7 +1,7 @@
 ---
 date: 2022-09-19
 description: "A writeup of Tring's ringing in the mourning period"
-featured_image: "images/queen_funeral.JPG"
+featured_image: "images/queen_funeral.png"
 title: "In memoriam — HM Queen Elizabeth II"
 ---
 # Proclamation - 10th
