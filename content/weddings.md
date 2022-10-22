@@ -1,6 +1,6 @@
 ---
 title: Weddings
-featured_image: "images/wedding.jpg"
+featured_image: "tringbellringers.org.uk/images/wedding.jpg"
 description: We are honoured to be able to ring for weddings at Tring church.
 
 ---
