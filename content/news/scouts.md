@@ -9,6 +9,7 @@ what we did?
 
 ...
 
+Quotes from their leaders about the experience?
 ...
 
-Please contact xyz to arrange a visit with your troop
+Please contact xyz to discuss a visit with your troop

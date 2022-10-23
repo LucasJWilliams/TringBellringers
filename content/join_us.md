@@ -2,9 +2,11 @@
 title: Join us
 featured_image: "images/band.jpg"
 description: We welcome all visitors and new ringers!
-
 ---
+
 # Learn to ring
+[Why should you ring?](https://cccbr.org.uk/bellringing/learn/)  
+
 We run a weekly learners session on Tuesday at 19:00. A group of experienced ringing teachers attend to provide you the best possible tuition.
 
 Whether you're brand new to ringing or have had a go in the past we would be very happy to welcome you, please reach out to learn@tringbellringers.org.uk to find out more.

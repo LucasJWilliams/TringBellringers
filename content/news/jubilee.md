@@ -5,7 +5,7 @@ featured_image: "images/platinum_jubilee.jpg"
 title: "Ringing for the Platinum Jubilee"
 ---
 
-blurb
+blurb to be written 
 
 # 70 of Queens Call changes
 https://bb.ringingworld.co.uk/view.php?id=1519471

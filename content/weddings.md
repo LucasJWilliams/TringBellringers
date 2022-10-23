@@ -17,4 +17,4 @@ If you would like to see the bells and some ringing in action we will be delight
 
 We hope that, amid all the excitement of your big day, you and your guests will find time to pause for a moment and enjoy the sound of these historic bells ringing out in celebration of your marriage.
 
-Please contact our Wedding Bells co-ordinatar at weddings@tringbellringers.org.uk to discuss.
+Please contact our Wedding Bells co-ordinatar, Cathy Anderson, at weddings@tringbellringers.org.uk to discuss.
