@@ -1,7 +1,7 @@
 ---
 date: 2015-12-20
 description: "Ringing to commemorate the 700th Anniversary of the granting of Tring's market charter"
-featured_image: "images/platinum_jubilee.jpg"
+featured_image: "images/tring_cattle_market.jpg"
 title: "700th Anniversary of Tring's market charter"
 ---
 The bells of SS Peter & Paul, Tring have played their part in commemorating the 700th anniversary of the granting in 1315 By Edward II of the Charter for market to be held in Tring.
