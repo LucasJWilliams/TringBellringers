@@ -88,7 +88,7 @@ and 2nd  “I WAS GLAD WHEN THEY SAID UNTO ME LET US GO INTO THE HOUSE OF THE LO
 A clock which played tunes on the bells at every hour was installed in 1753 and the inner dial showing the names of the churchwardens now hangs in the ringing chamber.  This was replaced in 1882 by Gillett and Bland with a clock, with Westminster chimes at every quarter. John Clement, a local clock-maker, drew up the plans for the clock. The Clement family, who carried on a clock-makers business in the town continuously from at least 1782 until 1959, maintained the clock throughout this period.
 
 The clock was driven by a gravity weights which meant that these weights had to be wound up by hand every few days to keep the clock going.  In the late 1970s the drive was converted with synchronous and direct electric drive to the strike and quarters.
-
+{{< figure src="/images/clock_mechanism.jpeg" >}}
 
 # Our Society
 Where there are bells, people are needed to ring them.  Bellringers come from all walks of life, tall and short, young and old, male and female.  However modest their ability, ringers are always made welcome when they visit another tower.
