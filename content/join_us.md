@@ -22,4 +22,4 @@ Access is normally via the West door, at the bottom of the tower.
 Standard repertoire: Plain bob, Grandsire and Stedman Doubles. Occasionally Grandsire Triples or Cambridge Minor.
 
 #### Sunday service
-Half an hour before service, ringing from 9:30-10:00.
+09:30-10:00 - Before the main Sunday service
