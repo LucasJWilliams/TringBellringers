@@ -54,10 +54,10 @@ Another famous change is 1-2-7-5-3-4-6-8 called “Whittingtons” because the t
 | Bell | Date     | Founder              | Weight         | Diameter (Mouth of bell) |
 | :--- | :------: | :------------------- | :------------: | :---------------------:  |
 | 1    | 1882     | Gillett, Bland & Co  | 5-3-19 (301kg) | 31.50" (80cm)            |
-| 2    | 1636     | Gillett, Bland & Co  | 6-3-15 (324kg) | 32.32" (82cm)            |
-| 3    | 1752     | Ellis I Knight       | 7-3-21 (403kg) | 34.32" (87cm)            |
-| 4    | 1622     | Lester & pack        | 9-1-21 (479kg) | 38.25" (97cm)            |
-| 5    | 1624[^3] | Robert Oldfield      | 9-1-20 (479kg) | 39.63" (100cm)           |
+| 2    | 1882     | Gillett, Bland & Co  | 6-3-15 (324kg) | 32.32" (82cm)            |
+| 3    | 1636     | Ellis I Knight       | 7-3-21 (403kg) | 34.32" (87cm)            |
+| 4    | 1752     | Lester & pack        | 9-1-21 (479kg) | 38.25" (97cm)            |
+| 5    | 1622[^3] | Robert Oldfield      | 9-1-20 (479kg) | 39.63" (100cm)           |
 | 6    | 1624[^3] | Robert Oldfield      | 11-1-21 (581kg)| 41.75" (106cm)           |
 | 7    | 1624[^3] | Robert Oldfield      | 14-0-27 (723kg)| 45.81" (116cm)           |
 | 8    | 1695[^3] | Richard III Chandler | 17-3-18 (905kg)| 50.50" (128cm)           |
