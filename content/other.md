@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Other
 featured_image: ''
 description: 
 ---

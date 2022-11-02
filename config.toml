@@ -49,9 +49,9 @@ enableRobotsTXT = true
     url = '/weddings/'
     weight = 90
   [[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    url = '/resources/'
+    identifier = "other"
+    name = "Other"
+    url = '/other/'
     weight = 95
   [[menu.main]]
     identifier = "contact"
