@@ -5,7 +5,7 @@ featured_image: "images/scouts.png"
 title: "Visit by Halton explorer scouts"
 ---
 
-Fifteen members of the 1st Halton (RAF) Red Kite ESU with their leaders climbed the 36 step circular stairs to be welcomed to the ringing room by eight enthusiastic Tring ringers.
+Fifteen members of the [1st Halton (RAF) Red Kite ESU](http://www.1sthaltonscouts.org/red-kite-explorer-scout-unit/) with their leaders climbed the 36 step circular stairs to be welcomed to the ringing room by eight enthusiastic Tring ringers.
 
 The fifteen split in to three smaller groups to visit the belfry in turn (more steps up!) where the concept of bells being ‘up’ or ‘down’ was explained, questions answered and, after donning ear defence, a bell was rung to demonstrate ‘full circle’ ringing (the bell rotates on its bearings through a full circle).
 
