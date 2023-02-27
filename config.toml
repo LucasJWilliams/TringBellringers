@@ -6,7 +6,7 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 Paginate = 10
-googleAnalytics = ""
+googleAnalytics = "G-DVSMVMTXEQ"
 enableRobotsTXT = true
 
 
