@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Tring Bellringers"
 description: "We are the local group that ring the bells at St Peter & Paul."
-featured_image: "images/bells_up.JPEG"
+featured_image: "images/bells_up.png"
 ---
 We are a friendly and diverse group that enjoy the unique and challenging hobby of bell ringing. This website should give you a good idea about us but if you have any questions please don't hesitate to [contact us]({{< ref "contact">}}).
 
