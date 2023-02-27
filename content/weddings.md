@@ -13,7 +13,7 @@ There have been bells in Tring parish church since 1552. We have eight bells, ra
 
 Traditionally in Tring, bells are rung for half an hour after the wedding service, and involves 6 or 8 ringers making themselves available for an hour to prepare and ring the bells for you.
 
-If you would like to see the bells and some ringing in action we will be delighted to meet you and show you both around the tower on any [Tuesday evening between 20:00 and 21:00]({{< ref "join_us" >}}) before your wedding day.
+If you would like to see the bells and some ringing in action we will be delighted to meet you and show you both around the tower on any [Tuesday evening between 20:00 and 21:00]({{< ref "join-us" >}}) before your wedding day.
 
 We hope that, amid all the excitement of your big day, you and your guests will find time to pause for a moment and enjoy the sound of these historic bells ringing out in celebration of your marriage.
 
