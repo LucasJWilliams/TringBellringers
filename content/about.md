@@ -105,7 +105,7 @@ There are about fifteen bellringers at Tring.  Although bellringing is a fairly 
 
 It usually takes about twelve lessons to learn to handle a bell. Once you are able to handle a bell, you will be able to start to learn bellringing tunes called “methods”. But all ringers are still learning – there is always something new to learn in ringing.  Bellringing is the same challenge as it was 350 years ago!
 
-If you are interested to find out more, or would just like to have a go, please reach out info@tringbellringers.org.uk!
+If you are interested to find out more, or would just like to have a go, please [contact us]({{< ref "contact">}})!
 
 
 [^1]: Source: https://www.richmondbells.org/index.php/richmond-bells-bellringing
