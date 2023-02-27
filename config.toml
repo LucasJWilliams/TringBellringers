@@ -7,8 +7,6 @@ resourceDir = "../resources"
 DefaultContentLanguage = "en"
 Paginate = 10
 googleAnalytics = "G-DVSMVMTXEQ"
-enableRobotsTXT = false
-
 
 [sitemap]
   changefreq = "monthly"
