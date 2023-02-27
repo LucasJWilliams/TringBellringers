@@ -7,7 +7,7 @@ resourceDir = "../resources"
 DefaultContentLanguage = "en"
 Paginate = 10
 googleAnalytics = "G-DVSMVMTXEQ"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 
 [sitemap]
