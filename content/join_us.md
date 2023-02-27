@@ -5,7 +5,11 @@ description: We welcome all visitors and new ringers!
 ---
 
 # Learn to ring
-[Why should you ring?](https://cccbr.org.uk/bellringing/learn/)  
+## Why?
+> * Develop a traditional skill
+> * Involvment in celebrations like marriages and state events
+> * Member of a friendly team
+The central group of bell ringers has more useful information about considering ringing [here](https://cccbr.org.uk/bellringing/learn/).
 
 We run a weekly learners session on Tuesday at 19:00. A group of experienced ringing teachers attend to provide you the best possible tuition.
 
