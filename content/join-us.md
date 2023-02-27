@@ -18,7 +18,7 @@ We run a weekly learners session on Tuesday at 19:00. A group of experienced rin
 Whether you're brand new to ringing or have had a go in the past we would be very happy to welcome you, please [reach out]({{< ref "contact">}}) to find out more.
 
 # Current ringers
-Anyone that has already learnt to ring is very welcome to join us at our practice night or on Sunday, all abilities are appreciated. We occasionally ring at other times so if you're visiting the area do get in contact.
+Anyone that has already learnt to ring is very welcome to join us at our practice night or on Sunday, all abilities are appreciated. We occasionally ring at other times so if you're visiting the area do get in contact.  
 Access is normally via the West door, at the bottom of the tower.
 
 #### Tuesday practice 
