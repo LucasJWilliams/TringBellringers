@@ -36,7 +36,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "join_us"
     name = "Join"
-    url = '/join_us/'
+    url = '/join-us/'
     weight = 20
   [[menu.main]]
     identifier = "news"
