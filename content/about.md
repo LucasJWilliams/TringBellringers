@@ -1,7 +1,7 @@
 ---
 title: About us
 featured_image: "images/old_band.jpg"
-description: "Picture of the band in 1921"
+description: "Photograph of the band in 1921"
 ---
 # What is ringing?
 
