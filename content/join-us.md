@@ -1,6 +1,6 @@
 ---
 title: Join us
-featured_image: "images/band.jpg"
+featured_image: "images/new_band.jpg"
 description: We welcome all visitors and new ringers!
 ---
 
