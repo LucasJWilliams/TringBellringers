@@ -5,21 +5,15 @@ featured_image: "images/queen_funeral.png"
 title: "In memoriam — HM Queen Elizabeth II"
 ---
 
-...
-
 # Proclamation - 10th
-Rung following the Proclamation of His Majesty, King Charles III
-
-https://bb.ringingworld.co.uk/view.php?id=1541956
-
+[Rung](https://bb.ringingworld.co.uk/view.php?id=1541956) following the Proclamation of His Majesty, King Charles III
+{{< figure src="/images/funeral/proclamation.jpg" >}}
 
 # Eve of funeral - 18th
-Rung fully muffled for a special Evensong on the eve of the funeral of Her Majesty, Queen Elizabeth II
-
-https://bb.ringingworld.co.uk/view.php?id=1545344
+[Rung](https://bb.ringingworld.co.uk/view.php?id=1545344) fully muffled for a special Evensong on the eve of the funeral of Her Majesty, Queen Elizabeth II
+{{< figure src="/images/funeral/eve.jpg" >}}
 
 
 # Funeral day - 19th
-Tolling tenor half muffled an hour before the funeral service of Her Majesty, Queen Elizabeth II
-
-https://bb.ringingworld.co.uk/view.php?id=1548840
+[Tolling](https://bb.ringingworld.co.uk/view.php?id=1548840) tenor half muffled an hour before the funeral service of Her Majesty, Queen Elizabeth II
+{{< figure src="/images/funeral/funeral.jpg" >}}
