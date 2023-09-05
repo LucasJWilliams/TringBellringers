@@ -4,6 +4,6 @@ featured_image: ''
 description: We'd love to hear from you
 ---
 
-{{< form-contact action="https://formspree.io/f/xoqbwblz" >}}
 
+For all enquiries, including learning to ring please use the following email:
 contact@tringbellringers.org.uk
