@@ -13,3 +13,6 @@ title: "Ringing for the King's Coronation"
 {{< figure src="/images/coronation_band.jpg" >}}
 The above [band](https://bb.ringingworld.co.uk/view.php?id=1625143), including 7 new recruits, rang immediately prior to the coronation.
 {{< figure src="/images/coronation_certificate.png" >}}
+
+The Tring band having fun ringing a sequence on the bells called "Kings" for the coronation. One of the band rang for the previous coronation too!
+{{< youtube gDGZNuMiVKk >}}
