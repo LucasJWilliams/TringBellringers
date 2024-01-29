@@ -1,5 +1,5 @@
 ---
-date: 2023-01-29
+date: 2024-01-29
 description: "Christian's experience learning to ring at Tring"
 featured_image: "images/christianqp.jpg"
 title: "A new ringer's story"
@@ -15,3 +15,7 @@ I am in awe of the Tring bells. The oldest dates from 1622, and hundreds, if not
 I’m still in the foothills of my journey, but I’m determined to continue. It requires commitment – I usually practice weekly in both Tring and Berkhamsted, as well as ringing for the Church service on a Sunday morning. It’s time consuming but enjoyable, and a pleasure to spend time with such a friendly and supportive group.
 
 My only regret is that I left it until later in life, rather than responding to the call of the bells earlier! Better late than never. So, I heartily recommend anyone considering bell ringing to give it a go, and wind your way up that ancient spiral staircase.
+
+- Christian (A Tring recruit, starting in May 2023)
+
+**Editor's note:** The image at the top is very a happy band after Christian (Right) rang his first [quarter peal](https://bb.ringingworld.co.uk/view.php?id=1688433), a significant challenge and milestone in a ringer's progression.
