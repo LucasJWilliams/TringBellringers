@@ -1,7 +1,7 @@
 ---
 date: 2023-01-29
 description: "Christian's experience learning to ring at Tring"
-featured_image: "images/christianqp.jpeg"
+featured_image: "images/christianqp.jpg"
 title: "A new ringer's story"
 ---
 In May 2023 I climbed the ancient spiral staircase of the Tring tower for the first time and entered a new world beyond my imagining. Since then, it’s been a challenging journey, with a mixture of trepidation, fascination, enjoyment, and frustration. Overall, I’m pleased to be making steady progress.
