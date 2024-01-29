@@ -1,5 +1,5 @@
 ---
-date: 2015-12-20
+date: 2023-01-29
 description: "A new ringer's story"
 featured_image: "images/christianqp.jpeg"
 title: "Christian's experience learning to ring at Tring"
